@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Blazed One Docs"
+  name: "Blazed One Doc"
   text: "Blazed One Documentation"
   tagline: My great project tagline
   actions:
