@@ -5,7 +5,7 @@
   },
   "hosting": {
     "site": "docs-blz-one",
-    "public": "src/.vitepress/dist",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",

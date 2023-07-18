@@ -2,6 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  outDir: '../public',
+  vite: {
+    
+  },
   title: "Blazed One Docs",
   description: "Blazed One Documentation",
   themeConfig: {
