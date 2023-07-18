@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview src"
   },
   "dependencies": {
+    "vite-plugin-ssr": "^0.4.133",
     "vitepress": "^1.0.0-beta.5",
     "vue": "^3.3.4"
   }
