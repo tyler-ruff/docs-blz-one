@@ -1,13 +1,10 @@
 import { defineConfig } from 'vitepress'
-import vue from '@vitejs/plugin-vue'
-import ssr from 'vite-plugin-ssr/plugin'
-
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   outDir: '../public',
   vite: {
-    plugins: [vue(), ssr()]
+    plugins: []
   },
   title: "Blazed One Docs",
   description: "Blazed One Documentation",
