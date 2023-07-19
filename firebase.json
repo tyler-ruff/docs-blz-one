@@ -12,11 +12,7 @@
       "**/node_modules/**"
     ],
     "cleanUrls": true,
-    "trailingSlash": false,
-    "frameworksBackend": {
-      "region": "us-east1",
-      "type": "vitepress"
-    }
+    "trailingSlash": false
   },
   "storage": {
     "rules": "storage.rules"
